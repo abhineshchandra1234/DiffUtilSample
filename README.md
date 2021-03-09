@@ -1,10 +1,10 @@
 # DiffUtilSample
 
 ## Features
-- it contains all features of coroutine
+- it will show recyclerview with diffutil concept
 
 ## Concepts Used
 - viewbinding 
 - DiffUtil 
 
-[Reference](https://youtu.be/71NrkkRNXG4 "Named link title")
+[Reference](https://youtu.be/cppys4VYyvA "DiffUtil - Improve RecyclerView's Performance | Android Studio Tutorial")
