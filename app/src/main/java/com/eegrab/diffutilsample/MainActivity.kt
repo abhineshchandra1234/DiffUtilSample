@@ -23,10 +23,10 @@ class MainActivity : AppCompatActivity() {
         val person2 = Person(2,"Steve",22)
         val person3 = Person(3,"Mary",23)
 
-        myAdapter.setData(listOf(person1,person2,person3))
+//        myAdapter.setData(listOf(person1,person2,person3))
 
         binding.btnAdd.setOnClickListener {
-            val person4 = Person(4,"Henry",23)
+            val person4 = Person(3,"Mary",23)
             myAdapter.setData(listOf(person1,person2,person3,person4))
         }
     }
